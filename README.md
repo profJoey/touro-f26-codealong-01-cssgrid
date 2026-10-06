@@ -19,7 +19,7 @@ This creates a brand new repository under your own GitHub account, pre-loaded wi
 
 Use this naming convention:
 
-`f26-nyu-codealong-03-lastname-firstname`
+`touro-f26-codealong-01-lastname-firstname`
 
 **3\. Click "Create repository from template"**
 
@@ -31,17 +31,13 @@ GitHub copies the files and takes you to your new repo page.
 
 This is normal. Codespaces is spinning up a virtual computer for you in the cloud, installing dependencies, and opening VS Code in your browser. Grab a sip of water while it loads.
 
-**6\. You're ready**
-
-When the browser tab opens to VS Code, open the `style.css` file in the file explorer on the left. The base styles are already written for you, and each rule has **STEP** comments showing where the grid properties go. That's your starting point — we'll type the grid code together in class, one step at a time.
-
 ---
 
 ## **GitHub Codespaces — A Brief Guide**
 
 ### **What Is It?**
 
-Codespaces is a development environment that runs entirely in your browser. Instead of installing software on your own computer, you get a virtual computer in the cloud — pre-configured and ready to code — that you access through a web browser. Microsoft (which owns GitHub) hosts it, and NYU provides access through the GitHub Education Student Pack.
+Codespaces is a development environment that runs entirely in your browser. Instead of installing software on your own computer, you get a virtual computer in the cloud — pre-configured and ready to code — that you access through a web browser. Microsoft (which owns GitHub) hosts it.
 
 ### **What It Saves Us From**
 
